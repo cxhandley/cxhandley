@@ -1,9 +1,9 @@
 
 ## 😊 About Me
 
-Hi! I'm Craig Handley, an Engineering Leader with a passion for building quickly to reduce the time-to-value for clients. My experiences span consulting (for my sins), building energy efficiency (including DDC controls) and a range of start-ups (Django/React). I enjoy working with clients, with a forward-deployed engineering mindset, while also spending time to engineer efficient and robust architectures.
+Hi! I'm Craig Handley, an Analytics Engineer / Product Engineer  with a passion for building quickly to increase the time-to-value for clients. My experiences span a range of start-ups (Django/React), enterprise, consulting, and building energy efficiency (including DDC controls).  I enjoy working with clients, with a forward-deployed engineering mindset, while also spending time to engineer efficient and robust architectures.
 
-Currently, I work at [AptoNow](https://aptonow.com), where I lead engineering to support higher education institutions to improve their academic operations using data.
+Currently, I work at Victoria University, where I'm supporting a Timetable strategic uplift project to improve their academic operations using data.
 
 Outside of work, I'm interested in sports, gardening and travelling. I like experimenting with predictive algorithms applied to sports in my free time.
 
@@ -25,7 +25,9 @@ Outside of work, I'm interested in sports, gardening and travelling. I like expe
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?logo=alpinedotjs&logoColor=fff)
-
+![Prefect](https://img.shields.io/badge/Prefect-%23ffffff.svg?style=for-the-badge&logo=prefect&logoColor=white)
+![Polars](https://img.shields.io/badge/polars-0075ff?style=for-the-badge&logo=polars&logoColor=white)
+![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 
 ### 🖥️ Development Tools
 
@@ -40,6 +42,8 @@ Outside of work, I'm interested in sports, gardening and travelling. I like expe
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
+![Duckdb](https://img.shields.io/badge/duckdb-%23FFF000.svg?style=for-the-badge&logo=duckdb&logoColor=black)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### ⚙️ Scripting & Automation
 
@@ -50,6 +54,8 @@ Outside of work, I'm interested in sports, gardening and travelling. I like expe
 
 ![GitLab](https://img.shields.io/badge/GitLab-white.svg?style=for-the-badge&logo=GitLab&logoColor=FC6D26)
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-white.svg?style=for-the-badge&logo=GitLab&logoColor=FC6D26)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 ## 🌐 Socials
 
