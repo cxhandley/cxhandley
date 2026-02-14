@@ -61,7 +61,7 @@ Outside of work, I'm interested in sports, gardening and travelling. I like expe
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cxhandley)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cxhandley)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cxhandley&theme=vue)
 [![GitHub Streak](https://streak-stats.demolab.com?user=cxhandley&theme=transparent&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_longest_streak=true&hide_current_streak=true)](https://git.io/streak-stats)
 
 ---
